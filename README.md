@@ -3,7 +3,7 @@
 ## Labs done / planned
 
 - [x] 29th January 2024 - Lab1, Numpy and Vectorization
-- [ ] 5th February 2024 - Lab2, Sci-kit learn
+- [x] 5th February 2024 - Lab2, Sci-kit learn
 - [ ] 12th February 2024 - Lab3, PyTorch
 - [ ] 26th February 2024 - Lab4, JAX
 - Tutorials for the 2nd half will be updated later.
