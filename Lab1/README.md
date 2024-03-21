@@ -11,3 +11,5 @@ Apart from this, we encourage you to go through <a href="https://arxiv.org/pdf/2
 Also on a tangential note, because the assignment involves 2D convolutions, I am uploading cython code from the amazing <a href="http://cs231n.stanford.edu/">cs231n</a>'s assignments in the `cython` folder (It also has the backward functions, for max_pool as well!), I have only tested it for python 3.6 though.
 
 ### Take-home assignment - Implementing a vectorized 2D convolution!
+
+[Feedback Form](https://forms.gle/C5M8PUa133ZsR5H87)

@@ -5,3 +5,5 @@ The aim of this lab is to demonstrate the effectiveness of `scikit-learn` by fol
 Note : Use ds1_{train, valid}.csv for Logistic Regression and ds4_{train, valid}.csv for Poisson Regression.
 
 ## Take Home assignment - SVM estimator. 
+
+[Feedback Form](https://forms.gle/jVajD36U7skvQLMd7)
