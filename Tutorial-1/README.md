@@ -8,5 +8,5 @@ p(y_i|x_i) \sim Poisson(\lambda) \\
 \text{or} \\
 p(y_i|x_i) = \frac{\lambda^{y_i}*e^{-\lambda}}{y_i!}
 $$
-where $\lambda = e^{a + b*x_i}$.
+where $$\lambda = e^{a + b*x_i}$$.
 You can refer to cs229's <a href="https://youtu.be/iZTeva0WSTQ?si=sZVZeiaRc5fgwIvD&t=2899">Lecture 4</a> (specifically where I have started it), for details on why I parametrized $\lambda$ as I did. 
