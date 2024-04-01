@@ -6,7 +6,9 @@
 - [x] 5th February 2024 - Lab2, Sci-kit learn
 - [x] 12th February 2024 - Lab3, PyTorch
 - [x] <s>26th February 2024</s> 21st March 2024 - Lab4, JAX
-- Tutorials for the 2nd half will be updated later.
+- <s>Tutorials for the 2nd half will be updated later.</s>
+- [x] 1st April 2024 - Tutorial 1, Numeric Prediction
+
 
 ## According to feedback till now -
 <!-- CODE:START -->
