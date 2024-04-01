@@ -5,6 +5,6 @@ In question 5, we derived update rules for a model being fit using the Least Squ
 It won't hurt to try out and see this for yourself for the Possion Distribution, i.e., assume <br>
 $$p(y_i|x_i) \sim Poisson(\lambda)$$
 OR <br>
-$$p(y_i|x_i) = \frac{\lambda^{y_i}*e^{-\lambda}}{y_i!}$$
+$$p(y_i|x_i) = ({\lambda^{y_i}*e^{-\lambda}})/{y_i!}$$
 where $\lambda = e^{a + b*x_i}$.
 You can refer to cs229's <a href="https://youtu.be/iZTeva0WSTQ?si=sZVZeiaRc5fgwIvD&t=2899">Lecture 4</a> (specifically where I have started it), for details on why I parametrized $\lambda$ as I did. 
