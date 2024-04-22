@@ -8,6 +8,7 @@
 - [x] <s>26th February 2024</s> 21st March 2024 - Lab4, JAX
 - <s>Tutorials for the 2nd half will be updated later.</s>
 - [x] 1st April 2024 - Tutorial 1, Numeric Prediction
+- [x] 22nd April 2024 - Tutorial 2, Probability Models
 
 
 ## According to feedback till now -
