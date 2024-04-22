@@ -1,4 +1,4 @@
-As we had discussed, I am attaching the solution to problem 3. The only other problem eithout a solution is Q9, but I already solved for $E[X^2]$ in the class; You can ask Prof. Ashwin about the probability tree part. <br>
+As we had discussed, I am attaching the solution to problem 3. The only other problem without a solution is Q9, but I already solved for $E[X^2]$ in the class; You can ask Prof. Ashwin about the probability tree part. <br>
 Solution - 
 ```math
 \begin{align*}
