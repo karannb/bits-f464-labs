@@ -38,10 +38,8 @@ This is an average of 26 responses.
 <!-- OUTPUT:END -->
 This table was made using <a href="https://github.com/basnijholt/markdown-code-runner?tab=readme-ov-file#bar_chart-idea-3-generating-markdown-tables">markdown-code-runner</a>.
 
-### Instructor - [Prof. Aditya Challa](https://www.bits-pilani.ac.in/goa/aditya-challa/)
-### Co-Instructor - [Prof. Ashwin Srinivasan](https://www.bits-pilani.ac.in/goa/ashwin-srinivasan/)
+### Instructor - [Prof. Aditya Challa](https://www.bits-pilani.ac.in/goa/aditya-challa/), Co-Instructor - [Prof. Ashwin Srinivasan](https://www.bits-pilani.ac.in/goa/ashwin-srinivasan/) .
 
 ### No labs will be evaluative but correct submissions of take-home problems will yield extra credit (+5%).
 
-### Projects will be out on the github pages for this repository soon. 
-(First course in BITS Goa to have a project component with double blind peer review!)
+Projects will be out on the <a href="https://karannb.github.io/bits-f464-labs">github pages</a> for this repository soon. (First course in BITS Goa to have a project component with double blind peer review!)
