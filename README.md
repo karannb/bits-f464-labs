@@ -43,4 +43,5 @@ This table was made using <a href="https://github.com/basnijholt/markdown-code-r
 
 ### No labs will be evaluative but correct submissions of take-home problems will yield extra credit (+5%).
 
-### Projects will be out on the github pages for this repository soon. (First course in BITS Goa to have a project component with double blind peer review!)
+### Projects will be out on the github pages for this repository soon. 
+(First course in BITS Goa to have a project component with double blind peer review!)
