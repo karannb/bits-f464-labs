@@ -13,3 +13,9 @@ Also on a tangential note, because the assignment involves 2D convolutions, I am
 ### Take-home assignment - Implementing a vectorized 2D convolution!
 
 [Feedback Form](https://forms.gle/C5M8PUa133ZsR5H87)
+
+Quick links,
+- `life.ipynb` - [![colab_logo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karannb/bits-f464-labs/blob/main/Lab1/life.ipynb)
+- `spatial_TODO.ipynb` - [![colab_logo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karannb/bits-f464-labs/blob/main/Lab1/spatial_TODO.ipynb)
+- `Mandelbrot_TODO.ipynb` - [![colab_logo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karannb/bits-f464-labs/blob/main/Lab1/Mandelbrot_TODO.ipynb)
+- `Conv2D_TODO.ipynb` - [![colab_logo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karannb/bits-f464-labs/blob/main/Lab1/Conv2D_TODO.ipynb)
